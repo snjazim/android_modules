@@ -1,10 +1,5 @@
-<head>
-	<title>
-		<h1> Android Codes </h1>
-	</title>
-</head>
+<h1> Android Codes </h1>
 
-<body>
 	<p>
 		<b> Codes are written by <b>
 		<ul>
@@ -36,4 +31,3 @@
 			<li> Database Get (db_get) [Fetch data from DB, returns a valid JSON] </li>
 		</ol>
 	</p>
-</body>
