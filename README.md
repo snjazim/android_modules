@@ -1,6 +1,5 @@
-<h1> Android Codes </h1>
-
-	<p>
+<h2> Android Codes </h2>
+<p>
 		<b> Codes are written by <b>
 		<ul>
 			<li> <a href="https://twitter.com/ibtehaz_shawon"> Ibtehaz Shawon </a> </li>
